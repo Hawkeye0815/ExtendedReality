@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="binzulangegeflogenwieeinastronaut" size="0.105000 0.148016" />
-    <ImageTarget name="Saturn_V_optimized" size="1.000000 1.413846" />
-    <ImageTarget name="Yuri_gagarin" size="1.000000 1.000000" />
+    <ImageTarget name="Flyer" size="0.105000 0.148016" />
   </Tracking>
 </QCARConfig>
